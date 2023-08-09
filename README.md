@@ -1,5 +1,5 @@
 # XAI_for_covid
-Contains code and images developed during our research project. Our paper can be found at https://link.springer.com/chapter/10.1007/978-3-031-31417-9_38
+Contains code and example images developed during our research project. Our paper can be found at https://link.springer.com/chapter/10.1007/978-3-031-31417-9_38
 
 # Explainable AI
 According to Wikipedia, Explainable AI (XAI), also known as Interpretable AI, or Explainable Machine Learning (XML), is artificial intelligence (AI) in which humans can understand the reasoning behind decisions or predictions made by the AI. XAI is important, more so in the medical domain because it helps us gain trust on the black-box models, which are hard to describe. Nowadays, many deep learning models can be trained to achieve higher accuracies for various tasks, but for some models, it also becomes hard to explain how the model is arriving at a particular decision. Due to this reason, we set out to implement different available XAI techniques on the models trained to categorize covid, normal and viral pneumonia cases from chest x-ray images which attempt to explain the results of Resnet18 and Resnet50. The results were then shown to the domain experts and qualitative and quantitative feedback was taken which we have compiled in our paper.
